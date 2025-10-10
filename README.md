@@ -8,7 +8,7 @@ please follow this illustrated instruction guide:
 To connect and pair your **Vive Focus Vision** headset with your PC,  
 please follow this illustrated instruction guide:
 
-👉 [Open the Vive Focus Vision Setup Guide](https://docs.google.com/document/d/1j7cTjQ0wXEaHLgbNTHS4hmGoaor2VOPr0zTbB180xyA/edit?usp=sharing)
+👉 [Open the Vive Focus Vision Setup Guide](https://docs.google.com/document/d/1j7cTjQ0wXEaHLgbNTHS4hmGoaor2VOPr0zTbB180xyA/edit?tab=t.9ag1uh4gbcht)
 
 This document includes:
 - Installing **Vive Hub** and **SteamVR**
